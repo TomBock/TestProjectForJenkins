@@ -1,0 +1,6 @@
+name: TestProjectForJenkins
+version: ${project.version}
+main: com.cybiduck.tom.testprojectforjenkins.TestProjectForJenkins
+prefix: TPFJ
+authors: [CybiDuck]
+description: TestProject to Test Jenkins implementation
